@@ -1,4 +1,1 @@
-# ODI-Match-Winning-Probability-Predictor
-This project predicts the winning probability of a odi match in second inning using current situation of the match.
-It takes some inputs like batting team, bowling team, target, current score, overs etc.
-I took data of ODI matches from kaggle and after some processing on this data train a model using RandomForestClassifier.  
+This machine learning project predicts the winning probability of an ODI match based on the current match situation. It takes inputs such as the batting team, bowling team, target, current score, overs, and more. The required ODI match data was sourced from Kaggle. After preprocessing the data, a model was trained using the RandomForestClassifier.
